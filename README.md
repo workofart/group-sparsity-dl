@@ -17,11 +17,20 @@ Please find the implementation and experiments in `Project Experiments.ipynb`.
 
 Please note that the notebook is run with a freshly installed Python `3.6.9` environment with the dependencies defined in `requirements.txt`.
 
+## Experiment Results
+
+These can be found in `Experiment Result/{Regularization Type}/{Data Set}`
+- **Regularization Type** can be one of [`L1`, `L2`, `Group Sparsity`]
+- **Data Set** can be one of [`Cover`, `MNIST`, `SDD`].
 
 
-## Dataset
+## Datasets
 
-**Please find the datasets in the following links:**
-- https://archive.ics.uci.edu/ml/machine-learning-databases/00325/Sensorless_drive_diagnosis.txt --> then rename to sdd.txt
-- https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/covtype.data.gz --> unzip to same folder
+[MNIST Handwritten Digits](http://yann.lecun.com/exdb/mnist/)
 - MNIST should be downloaded automatically through Pytorch
+  
+[Forest Covertype](https://archive.ics.uci.edu/ml/datasets/covertype)
+- https://archive.ics.uci.edu/ml/machine-learning-databases/covtype/covtype.data.gz --> unzip to same folder
+
+[Sensorless Drive Diagnosis](https://archive.ics.uci.edu/ml/datasets/Dataset+for+Sensorless+Drive+Diagnosis)
+- https://archive.ics.uci.edu/ml/machine-learning-databases/00325/Sensorless_drive_diagnosis.txt --> then rename to sdd.txt
