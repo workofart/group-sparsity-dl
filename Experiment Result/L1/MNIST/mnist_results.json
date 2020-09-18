@@ -1,0 +1,1442 @@
+[
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "Adam",
+        "L1_reg": 0,
+        "loss": 0.002365566347763767,
+        "accuracy": 0.9774
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "Adam",
+        "L1_reg": 0,
+        "loss": 0.005646860959252081,
+        "accuracy": 0.9605
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "Adam",
+        "L1_reg": 0.01,
+        "loss": 0.0771260172287623,
+        "accuracy": 0.11108333333333334
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "Adam",
+        "L1_reg": 0.01,
+        "loss": 0.07202590117454528,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "Adam",
+        "L1_reg": 0.001,
+        "loss": 0.01801340420395136,
+        "accuracy": 0.9244666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "Adam",
+        "L1_reg": 0.001,
+        "loss": 0.007602917687222361,
+        "accuracy": 0.926
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "Adam",
+        "L1_reg": 0.0001,
+        "loss": 0.008028769777466853,
+        "accuracy": 0.9639166666666666
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "Adam",
+        "L1_reg": 0.0001,
+        "loss": 0.004065530889900401,
+        "accuracy": 0.9617
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "Adam",
+        "L1_reg": 1e-05,
+        "loss": 0.004178802691958845,
+        "accuracy": 0.9735666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "Adam",
+        "L1_reg": 1e-05,
+        "loss": 0.004679421504924539,
+        "accuracy": 0.9623
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "Adam",
+        "L1_reg": 0,
+        "loss": 0.0020034817285389485,
+        "accuracy": 0.9805666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "Adam",
+        "L1_reg": 0,
+        "loss": 0.0034585817001061515,
+        "accuracy": 0.9662
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "Adam",
+        "L1_reg": 0.01,
+        "loss": 0.07220014195044835,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "Adam",
+        "L1_reg": 0.01,
+        "loss": 0.07202230131626129,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "Adam",
+        "L1_reg": 0.001,
+        "loss": 0.01562605727761984,
+        "accuracy": 0.93755
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "Adam",
+        "L1_reg": 0.001,
+        "loss": 0.006759120654314756,
+        "accuracy": 0.94
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "Adam",
+        "L1_reg": 0.0001,
+        "loss": 0.005450033064186573,
+        "accuracy": 0.972
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "Adam",
+        "L1_reg": 0.0001,
+        "loss": 0.0034076941056642683,
+        "accuracy": 0.9672
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "Adam",
+        "L1_reg": 1e-05,
+        "loss": 0.0029502972529890635,
+        "accuracy": 0.9774166666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "Adam",
+        "L1_reg": 1e-05,
+        "loss": 0.003451877005957067,
+        "accuracy": 0.9663
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "Adam",
+        "L1_reg": 0,
+        "loss": 0.00465887220193011,
+        "accuracy": 0.9569833333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "Adam",
+        "L1_reg": 0,
+        "loss": 0.005044897319376468,
+        "accuracy": 0.9536
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "Adam",
+        "L1_reg": 0.01,
+        "loss": 0.0720043845653534,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "Adam",
+        "L1_reg": 0.01,
+        "loss": 0.0720215232372284,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "Adam",
+        "L1_reg": 0.001,
+        "loss": 0.018424947172403335,
+        "accuracy": 0.91605
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "Adam",
+        "L1_reg": 0.001,
+        "loss": 0.009088064083829521,
+        "accuracy": 0.9165
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "Adam",
+        "L1_reg": 0.0001,
+        "loss": 0.007566007510200143,
+        "accuracy": 0.9526
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "Adam",
+        "L1_reg": 0.0001,
+        "loss": 0.00511506993342191,
+        "accuracy": 0.9525
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "Adam",
+        "L1_reg": 1e-05,
+        "loss": 0.005041069157856206,
+        "accuracy": 0.9576833333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "Adam",
+        "L1_reg": 1e-05,
+        "loss": 0.004916220611985773,
+        "accuracy": 0.9528
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "RMSprop",
+        "L1_reg": 0,
+        "loss": 0.0029777354636296876,
+        "accuracy": 0.9733833333333334
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "RMSprop",
+        "L1_reg": 0,
+        "loss": 0.0063541798845981245,
+        "accuracy": 0.9587
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "RMSprop",
+        "L1_reg": 0.01,
+        "loss": 0.0840413710395495,
+        "accuracy": 0.11146666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "RMSprop",
+        "L1_reg": 0.01,
+        "loss": 0.07204886655807495,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "RMSprop",
+        "L1_reg": 0.001,
+        "loss": 0.018882438122232757,
+        "accuracy": 0.9130166666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "RMSprop",
+        "L1_reg": 0.001,
+        "loss": 0.008910023045912385,
+        "accuracy": 0.9102
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "RMSprop",
+        "L1_reg": 0.0001,
+        "loss": 0.008215658171474934,
+        "accuracy": 0.9523666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "RMSprop",
+        "L1_reg": 0.0001,
+        "loss": 0.004901321486523375,
+        "accuracy": 0.9531
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "RMSprop",
+        "L1_reg": 1e-05,
+        "loss": 0.004378057579447826,
+        "accuracy": 0.9718333333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "RMSprop",
+        "L1_reg": 1e-05,
+        "loss": 0.0053920216968283054,
+        "accuracy": 0.9565
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "RMSprop",
+        "L1_reg": 0,
+        "loss": 0.002451957445940934,
+        "accuracy": 0.9770333333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "RMSprop",
+        "L1_reg": 0,
+        "loss": 0.0036200882935430853,
+        "accuracy": 0.9681
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "RMSprop",
+        "L1_reg": 0.01,
+        "loss": 0.07278118691841762,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "RMSprop",
+        "L1_reg": 0.01,
+        "loss": 0.07202146196365357,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "RMSprop",
+        "L1_reg": 0.001,
+        "loss": 0.015814781255523363,
+        "accuracy": 0.9373166666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "RMSprop",
+        "L1_reg": 0.001,
+        "loss": 0.0066670523259788755,
+        "accuracy": 0.9382
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "RMSprop",
+        "L1_reg": 0.0001,
+        "loss": 0.005605410881837209,
+        "accuracy": 0.9693166666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "RMSprop",
+        "L1_reg": 0.0001,
+        "loss": 0.003557178157707676,
+        "accuracy": 0.9651
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "RMSprop",
+        "L1_reg": 1e-05,
+        "loss": 0.002708525263456007,
+        "accuracy": 0.9786666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "RMSprop",
+        "L1_reg": 1e-05,
+        "loss": 0.003108065002982039,
+        "accuracy": 0.9687
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "RMSprop",
+        "L1_reg": 0,
+        "loss": 0.005298243443388492,
+        "accuracy": 0.95195
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "RMSprop",
+        "L1_reg": 0,
+        "loss": 0.005600757069140673,
+        "accuracy": 0.947
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "RMSprop",
+        "L1_reg": 0.01,
+        "loss": 0.07229113237857819,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "RMSprop",
+        "L1_reg": 0.01,
+        "loss": 0.07202377390861511,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "RMSprop",
+        "L1_reg": 0.001,
+        "loss": 0.018576041137675445,
+        "accuracy": 0.9174
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "RMSprop",
+        "L1_reg": 0.001,
+        "loss": 0.009013205921277403,
+        "accuracy": 0.9185
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "RMSprop",
+        "L1_reg": 0.0001,
+        "loss": 0.00810942970228692,
+        "accuracy": 0.9487166666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "RMSprop",
+        "L1_reg": 0.0001,
+        "loss": 0.005641898745298386,
+        "accuracy": 0.9458
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "RMSprop",
+        "L1_reg": 1e-05,
+        "loss": 0.005418087028370549,
+        "accuracy": 0.9533666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "RMSprop",
+        "L1_reg": 1e-05,
+        "loss": 0.005094878288917243,
+        "accuracy": 0.9525
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "SGD",
+        "L1_reg": 0,
+        "loss": 0.005469921652895088,
+        "accuracy": 0.9494666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "SGD",
+        "L1_reg": 0,
+        "loss": 0.005518758700788021,
+        "accuracy": 0.9471
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "SGD",
+        "L1_reg": 0.01,
+        "loss": 0.07212006239891053,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "SGD",
+        "L1_reg": 0.01,
+        "loss": 0.0720220708847046,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "SGD",
+        "L1_reg": 0.001,
+        "loss": 0.017451464534799257,
+        "accuracy": 0.91825
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "SGD",
+        "L1_reg": 0.001,
+        "loss": 0.008701668306812644,
+        "accuracy": 0.9211
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "SGD",
+        "L1_reg": 0.0001,
+        "loss": 0.007820286499212185,
+        "accuracy": 0.9483833333333334
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "SGD",
+        "L1_reg": 0.0001,
+        "loss": 0.0057277521608397365,
+        "accuracy": 0.9455
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "SGD",
+        "L1_reg": 1e-05,
+        "loss": 0.0056510192018312715,
+        "accuracy": 0.9501
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "SGD",
+        "L1_reg": 1e-05,
+        "loss": 0.005449326258152723,
+        "accuracy": 0.9488
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "SGD",
+        "L1_reg": 0,
+        "loss": 0.027316243047018844,
+        "accuracy": 0.76325
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "SGD",
+        "L1_reg": 0,
+        "loss": 0.026076958870887755,
+        "accuracy": 0.7709
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "SGD",
+        "L1_reg": 0.01,
+        "loss": 0.07766224699815115,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "SGD",
+        "L1_reg": 0.01,
+        "loss": 0.07203328409194946,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "SGD",
+        "L1_reg": 0.001,
+        "loss": 0.040120651365319886,
+        "accuracy": 0.8028166666666666
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "SGD",
+        "L1_reg": 0.001,
+        "loss": 0.02429559497833252,
+        "accuracy": 0.8149
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "SGD",
+        "L1_reg": 0.0001,
+        "loss": 0.030237727679808934,
+        "accuracy": 0.7917833333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "SGD",
+        "L1_reg": 0.0001,
+        "loss": 0.026367827880382538,
+        "accuracy": 0.8012
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "SGD",
+        "L1_reg": 1e-05,
+        "loss": 0.025573335771262647,
+        "accuracy": 0.7862166666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "SGD",
+        "L1_reg": 1e-05,
+        "loss": 0.024159049305319785,
+        "accuracy": 0.799
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "SGD",
+        "L1_reg": 0,
+        "loss": 0.06602959862152735,
+        "accuracy": 0.39405
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "SGD",
+        "L1_reg": 0,
+        "loss": 0.06555353155136108,
+        "accuracy": 0.412
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "SGD",
+        "L1_reg": 0.01,
+        "loss": 0.0956204682747523,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "SGD",
+        "L1_reg": 0.01,
+        "loss": 0.07196786708831787,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "SGD",
+        "L1_reg": 0.001,
+        "loss": 0.08089917968908945,
+        "accuracy": 0.36906666666666665
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "SGD",
+        "L1_reg": 0.001,
+        "loss": 0.06550106854438782,
+        "accuracy": 0.3674
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "SGD",
+        "L1_reg": 0.0001,
+        "loss": 0.06471561741828918,
+        "accuracy": 0.61655
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "SGD",
+        "L1_reg": 0.0001,
+        "loss": 0.0623031974196434,
+        "accuracy": 0.6267
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "SGD",
+        "L1_reg": 1e-05,
+        "loss": 0.06673486306269964,
+        "accuracy": 0.5743666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "SGD",
+        "L1_reg": 1e-05,
+        "loss": 0.06620264451503753,
+        "accuracy": 0.5844
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "AdaMax",
+        "L1_reg": 0,
+        "loss": 0.0015302422592651662,
+        "accuracy": 0.9848666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "AdaMax",
+        "L1_reg": 0,
+        "loss": 0.0036461371617158875,
+        "accuracy": 0.969
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "AdaMax",
+        "L1_reg": 0.01,
+        "loss": 0.07709461083412171,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "AdaMax",
+        "L1_reg": 0.01,
+        "loss": 0.07202848036289215,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "AdaMax",
+        "L1_reg": 0.001,
+        "loss": 0.014704683641095955,
+        "accuracy": 0.9411833333333334
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "AdaMax",
+        "L1_reg": 0.001,
+        "loss": 0.005785306510142982,
+        "accuracy": 0.945
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "AdaMax",
+        "L1_reg": 0.0001,
+        "loss": 0.0048671397880961495,
+        "accuracy": 0.9784666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "AdaMax",
+        "L1_reg": 0.0001,
+        "loss": 0.00307916324629914,
+        "accuracy": 0.9702
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "AdaMax",
+        "L1_reg": 1e-05,
+        "loss": 0.002054019886193176,
+        "accuracy": 0.9853833333333334
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.005,
+        "optim": "AdaMax",
+        "L1_reg": 1e-05,
+        "loss": 0.0038582065700000384,
+        "accuracy": 0.9643
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "AdaMax",
+        "L1_reg": 0,
+        "loss": 0.005970228409736107,
+        "accuracy": 0.9457833333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "AdaMax",
+        "L1_reg": 0,
+        "loss": 0.006037547101080417,
+        "accuracy": 0.9416
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "AdaMax",
+        "L1_reg": 0.01,
+        "loss": 0.07219558253288269,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "AdaMax",
+        "L1_reg": 0.01,
+        "loss": 0.07202082633972168,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "AdaMax",
+        "L1_reg": 0.001,
+        "loss": 0.01932489229242007,
+        "accuracy": 0.9127833333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "AdaMax",
+        "L1_reg": 0.001,
+        "loss": 0.009502103719860315,
+        "accuracy": 0.9156
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "AdaMax",
+        "L1_reg": 0.0001,
+        "loss": 0.008048023576537769,
+        "accuracy": 0.9493166666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "AdaMax",
+        "L1_reg": 0.0001,
+        "loss": 0.005562982641719282,
+        "accuracy": 0.9503
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "AdaMax",
+        "L1_reg": 1e-05,
+        "loss": 0.005694726467411965,
+        "accuracy": 0.95055
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0003,
+        "optim": "AdaMax",
+        "L1_reg": 1e-05,
+        "loss": 0.005407528291642666,
+        "accuracy": 0.9486
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "AdaMax",
+        "L1_reg": 0,
+        "loss": 0.008760040157288313,
+        "accuracy": 0.9204333333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "AdaMax",
+        "L1_reg": 0,
+        "loss": 0.008428461995720863,
+        "accuracy": 0.9255
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "AdaMax",
+        "L1_reg": 0.01,
+        "loss": 0.07200739483833313,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "AdaMax",
+        "L1_reg": 0.01,
+        "loss": 0.07203004095554352,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "AdaMax",
+        "L1_reg": 0.001,
+        "loss": 0.02274304564644893,
+        "accuracy": 0.8930166666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "AdaMax",
+        "L1_reg": 0.001,
+        "loss": 0.011926352506875992,
+        "accuracy": 0.8955
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "AdaMax",
+        "L1_reg": 0.0001,
+        "loss": 0.011050364329790075,
+        "accuracy": 0.9228166666666666
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "AdaMax",
+        "L1_reg": 0.0001,
+        "loss": 0.008311522825434804,
+        "accuracy": 0.9254
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "AdaMax",
+        "L1_reg": 1e-05,
+        "loss": 0.008539705246686935,
+        "accuracy": 0.9255
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.0001,
+        "optim": "AdaMax",
+        "L1_reg": 1e-05,
+        "loss": 0.007887270455062389,
+        "accuracy": 0.9269
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "Adam",
+        "L1_reg": 0,
+        "loss": 0.0010442512514623255,
+        "accuracy": 0.989
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "Adam",
+        "L1_reg": 0,
+        "loss": 0.004737197636347992,
+        "accuracy": 0.9659
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "Adam",
+        "L1_reg": 0.01,
+        "loss": 0.07289702136913935,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "Adam",
+        "L1_reg": 0.01,
+        "loss": 0.07201995017528534,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "Adam",
+        "L1_reg": 0.001,
+        "loss": 0.014629798554380735,
+        "accuracy": 0.9369833333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "Adam",
+        "L1_reg": 0.001,
+        "loss": 0.006618363014049828,
+        "accuracy": 0.9331
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "Adam",
+        "L1_reg": 0.0001,
+        "loss": 0.005194627791891495,
+        "accuracy": 0.9763
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "Adam",
+        "L1_reg": 0.0001,
+        "loss": 0.003311074048327282,
+        "accuracy": 0.9673
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "Adam",
+        "L1_reg": 1e-05,
+        "loss": 0.002049095615806679,
+        "accuracy": 0.9853333333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "Adam",
+        "L1_reg": 1e-05,
+        "loss": 0.004307485525906668,
+        "accuracy": 0.9621
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "RMSprop",
+        "L1_reg": 0,
+        "loss": 0.0015533041981267161,
+        "accuracy": 0.98425
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "RMSprop",
+        "L1_reg": 0,
+        "loss": 0.004343084705120418,
+        "accuracy": 0.9667
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "RMSprop",
+        "L1_reg": 0.01,
+        "loss": 0.07440908117294312,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "RMSprop",
+        "L1_reg": 0.01,
+        "loss": 0.07202352194786071,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "RMSprop",
+        "L1_reg": 0.001,
+        "loss": 0.0146351316417257,
+        "accuracy": 0.94105
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "RMSprop",
+        "L1_reg": 0.001,
+        "loss": 0.005896038622409105,
+        "accuracy": 0.9453
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "RMSprop",
+        "L1_reg": 0.0001,
+        "loss": 0.005174409241974354,
+        "accuracy": 0.975
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "RMSprop",
+        "L1_reg": 0.0001,
+        "loss": 0.0034613393557141534,
+        "accuracy": 0.9662
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "RMSprop",
+        "L1_reg": 1e-05,
+        "loss": 0.0022404391254298387,
+        "accuracy": 0.98305
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "RMSprop",
+        "L1_reg": 1e-05,
+        "loss": 0.0034790420552220894,
+        "accuracy": 0.9685
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "SGD",
+        "L1_reg": 0,
+        "loss": 0.010798359574874242,
+        "accuracy": 0.9025833333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "SGD",
+        "L1_reg": 0,
+        "loss": 0.01028866610378027,
+        "accuracy": 0.905
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "SGD",
+        "L1_reg": 0.01,
+        "loss": 0.07195317190488179,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "SGD",
+        "L1_reg": 0.01,
+        "loss": 0.07202037487030029,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "SGD",
+        "L1_reg": 0.001,
+        "loss": 0.023441493140657743,
+        "accuracy": 0.8877666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "SGD",
+        "L1_reg": 0.001,
+        "loss": 0.012195732402801513,
+        "accuracy": 0.8896
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "SGD",
+        "L1_reg": 0.0001,
+        "loss": 0.013478855184962352,
+        "accuracy": 0.8982833333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "SGD",
+        "L1_reg": 0.0001,
+        "loss": 0.010742761850357056,
+        "accuracy": 0.8991
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "SGD",
+        "L1_reg": 1e-05,
+        "loss": 0.011603551091129581,
+        "accuracy": 0.8959
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "SGD",
+        "L1_reg": 1e-05,
+        "loss": 0.010756209549307822,
+        "accuracy": 0.901
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "AdaMax",
+        "L1_reg": 0,
+        "loss": 0.002936558867859033,
+        "accuracy": 0.9726
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "AdaMax",
+        "L1_reg": 0,
+        "loss": 0.0037573110658675433,
+        "accuracy": 0.9657
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "AdaMax",
+        "L1_reg": 0.01,
+        "loss": 0.07287513924042384,
+        "accuracy": 0.11236666666666667
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "AdaMax",
+        "L1_reg": 0.01,
+        "loss": 0.07202234363555908,
+        "accuracy": 0.1135
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "AdaMax",
+        "L1_reg": 0.001,
+        "loss": 0.015531039766967297,
+        "accuracy": 0.9395333333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "AdaMax",
+        "L1_reg": 0.001,
+        "loss": 0.006566889560967684,
+        "accuracy": 0.9405
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "AdaMax",
+        "L1_reg": 0.0001,
+        "loss": 0.005905407933394114,
+        "accuracy": 0.9675
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "AdaMax",
+        "L1_reg": 0.0001,
+        "loss": 0.0038453525369986892,
+        "accuracy": 0.9639
+    },
+    {
+        "type": "train",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "AdaMax",
+        "L1_reg": 1e-05,
+        "loss": 0.0034084448891691863,
+        "accuracy": 0.9718833333333333
+    },
+    {
+        "type": "test",
+        "model": "ff",
+        "lr": 0.001,
+        "optim": "AdaMax",
+        "L1_reg": 1e-05,
+        "loss": 0.003704364356584847,
+        "accuracy": 0.9636
+    }
+]
