@@ -7,6 +7,9 @@ We will apply some non-deep learning classification algorithms as well as many d
 ## Authors
 *Kan Chen, Zongyu Dai, Hanxiang (Henry) Pan, Yue Sheng*
 
+## Research Report
+
+[Here](https://github.com/workofart/group-sparsity-dl/blob/master/Benefit_of_Group_Sparsity_in_Deep_Learning.pdf)
 
 ## How to run
 
