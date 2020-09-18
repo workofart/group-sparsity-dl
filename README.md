@@ -19,10 +19,11 @@ Please note that the notebook is run with a freshly installed Python `3.6.9` env
 
 ## Experiment Results
 
-These can be found in `Experiment Result/{Regularization Type}/{Data Set}`
+These can be found in `Experiment Result/{Regularization Type}/{Dataset}`
 - **Regularization Type** can be one of [`L1`, `L2`, `Group Sparsity`]
-- **Data Set** can be one of [`Cover`, `MNIST`, `SDD`].
+- **Dataset** can be one of [`Cover`, `MNIST`, `SDD`].
 
+The results include plots of accuracy vs different types of hyperparameters, as well as raw results stored as `{Dataset}_result.json`.
 
 ## Datasets
 
